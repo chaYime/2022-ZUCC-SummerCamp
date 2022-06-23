@@ -1,1 +1,1 @@
-# 2022ZUCCSummerCamp
+# 2022 ZUCC SummerCamp
